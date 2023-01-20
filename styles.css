@@ -1,0 +1,16 @@
+h1 {
+    margin-block-start: 0.67em;
+    margin-block-end: 1em;
+}
+
+a {
+    color: #f18918;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.abstand {
+    height: 20px;
+}
