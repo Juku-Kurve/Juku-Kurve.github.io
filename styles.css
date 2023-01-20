@@ -14,3 +14,12 @@ a {
 .abstand {
     height: 20px;
 }
+
+.date {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 0.7em;
+}
