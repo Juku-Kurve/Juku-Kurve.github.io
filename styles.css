@@ -82,6 +82,10 @@ h3 {
     font-weight: 400;
 }
 
+p {
+    margin-top: 0;
+}
+
 a {
     color: #f18918;
     text-decoration: none;
@@ -97,6 +101,10 @@ a:hover {
 
 .abstand {
     height: 15px;
+}
+
+.noSpace {
+    margin: 0;
 }
 
 .imgUpcoming img {
@@ -118,9 +126,9 @@ a:hover {
 }
 
 .logo > img {
-    width: 400px;
+    width: 350px;
 }
 
 .poster > img {
-    width: 400px;
+    width: 350px;
 }
