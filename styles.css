@@ -132,3 +132,7 @@ a:hover {
 .poster > img {
     width: 320px;
 }
+
+.fotos > div > img {
+    height: 50px;
+}
