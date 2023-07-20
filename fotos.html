@@ -23,12 +23,12 @@
 
     <script>
         jQuery(document).ready(function () {
-            var numFotos = 52
+            var numFotos = 134
             var fotos = [numFotos];
             for (var i = 0; i < numFotos; i++) {
                 var num = ('000' + (i + 1)).substr(-3);
                 fotos[i] = new Object();
-                fotos[i].src = `Kurve_Schleudertrauma-${num}.jpg`;
+                fotos[i].src = `Kurve_AK23-${num}.png`;
                 fotos[i].srct = fotos[i].src;
             }
 
@@ -71,7 +71,7 @@
 
                 thumbnailHeight: 150,
                 thumbnailWidth: 150,
-                itemsBaseURL: 'https://juku-kurve.github.io/links/Schleudertrauma-Fotos/',
+                itemsBaseURL: 'https://juku-kurve.github.io/links/AK23-Fotos/',
                 thumbnailAlignment: 'center',
                 thumbnailOpenImage: true,
 
